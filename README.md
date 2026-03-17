@@ -61,6 +61,7 @@ After you're done, you’ll see how many questions you got right!
 
 ---
 ## Screenshots
+
 ***Before Starting the Quiz***
 <img width="1916" height="902" alt="Image" src="https://github.com/user-attachments/assets/1dc59abe-ace8-4a92-9902-631b5c2ff3a8" />
 ***During the Quiz***
