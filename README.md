@@ -1,4 +1,3 @@
-
 # [Quiz Application with Timer](https://deepikagandla7456.github.io/Quiz-Application-With-Timer/)
 [![GitHub license](https://img.shields.io/github/license/deepikagandla7456/Quiz-Application-With-Timer)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/deepikagandla7456/Quiz-Application-With-Timer)]()
