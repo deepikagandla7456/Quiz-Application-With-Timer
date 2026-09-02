@@ -72,6 +72,6 @@ After you're done, you’ll see how many questions you got right!
 ***After Completing the Quiz***
 <img width="1919" height="908" alt="Image" src="https://github.com/user-attachments/assets/7e91e277-d6e9-48f2-8b3d-449415736bd2" />
 
-## License
+## Licence
 
 This project is licensed under the [Apache License 2.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
