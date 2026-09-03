@@ -58,6 +58,8 @@ After you're done, you’ll see how many questions you got right!
    * Open `index.html` in your browser to start the quiz.
 
 
+--- --
+
 ---
 ## Screenshots
 
